@@ -1,0 +1,2 @@
+# libft
+classic C functions
